@@ -4,14 +4,6 @@ title: Research papers read
 permalink: /papers/
 ---
 
-<details>
-  <summary><b><font size="+2">Attention Is All You Need</font></b></summary>
-
-  _https://arxiv.org/abs/1706.03762_
-  
-  ### https://arxiv.org/abs/1706.03762
- 
-</details>
 
 <style>
     *,
@@ -48,7 +40,7 @@ permalink: /papers/
         min-width: 30rem;
         max-width: 30rem;
         height: 35rem;
-        /* transform: translateX(-8rem); */
+        transform: translateX(-8rem);
         position: relative;
     }
 
@@ -72,27 +64,24 @@ permalink: /papers/
         border-radius: .8rem;
     }
 
-
-
-
 </style>
 
 
-<div class="card">
-        <div class="card_image">
+<div class="card background1">
+    <div class="card_image">
             <img src="../resources/attention.png">
+    </div>
+    <div class="card_info">
+        <div class="card_date">
+            <span>Sunday</span>
+            <span>January 21 2024</span>
         </div>
-        <div class="card_info">
-            <div class="card_date">
-                <span>Sunday</span>
-                <span>January 21 2024</span>
-            </div>
-            <h1 class="card_title">Attntion Is All You Need</h1>
-            <p class="card_desc">
-            asdasdasdasdasdasd
-            </p>
-            <a href="#" class="card_cta">Read more</a>
-        </div>
+        <h1 class="card_title">Attntion Is All You Need</h1>
+        <p class="card_desc">
+        asdasdasdasdasdasd
+        </p>
+        <a href="#" class="card_cta">Read more</a>
+    </div>
 </div>
 
 <div class="card">
@@ -108,7 +97,7 @@ permalink: /papers/
             <p class="card_desc">
             asdasdasdasdasdasd
             </p>
-            <a href="#" class="card_cta">Read more</a>
+            <a href="/attention" class="card_cta">Read more</a>
         </div>
 </div>
 
