@@ -27,6 +27,8 @@ permalink: /attention/
 
 Overall, "Attention is All You Need" revolutionized the field of NLP by introducing the Transformer architecture, which has since become a cornerstone in various NLP tasks and has inspired numerous subsequent research works and models.
 
+Self-attention!
+
 
 
 
