@@ -67,7 +67,7 @@ permalink: /papers/
 </style>
 
 
-<div class="card background1">
+<!-- <div class="card background1">
     <div class="card_image">
             <img src="../resources/attention.png">
     </div>
@@ -82,7 +82,7 @@ permalink: /papers/
         </p>
         <a href="#" class="card_cta">Read more</a>
     </div>
-</div>
+</div> -->
 
 <div class="card">
         <div class="card_image">
