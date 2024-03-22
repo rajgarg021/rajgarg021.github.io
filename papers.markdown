@@ -93,13 +93,16 @@ permalink: /papers/
                 <span>Sunday</span>
                 <span>January 21 2024</span>
             </div>
-            <h1 class="card_title">Attntion Is All You Need</h1>
+            <h1 class="card_title">Attention Is All You Need</h1>
             <p class="card_desc">
-            asdasdasdasdasdasd
             </p>
             <a href="/attention" class="card_cta">Read more</a>
         </div>
 </div>
+
+
+
+# Will be adding other papers soon!
 
 <!-- <style>
 .card {

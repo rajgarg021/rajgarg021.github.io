@@ -26,12 +26,3 @@ permalink: /attention/
 6. Performance: The Transformer model achieved state-of-the-art results on the WMT 2014 English-to-German and English-to-French translation tasks, outperforming previous models by a significant margin. It demonstrated the effectiveness of attention mechanisms in sequence-to-sequence tasks.
 
 Overall, "Attention is All You Need" revolutionized the field of NLP by introducing the Transformer architecture, which has since become a cornerstone in various NLP tasks and has inspired numerous subsequent research works and models.
-
-Self-attention!
-
-
-
-
-
-
-
